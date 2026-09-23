@@ -14,7 +14,6 @@ A structured and practical journey to mastering **Dart programming** through con
 
 <img src="https://img.shields.io/badge/Exception-Handling-7B61FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Status-In%20Progress-00C896?style=for-the-badge"/>
 
 </div>
 
